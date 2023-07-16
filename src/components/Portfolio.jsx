@@ -4,7 +4,7 @@ import reviews from '../data'
 
 const Portfolio = () => {
   return (
-    <div>
+    <div name="portfolio">
       <div className="flex flex-col w-[100vw] h-[140vh] md:h-[100vh] justify-center items-center bg-[#121120]">
      
      

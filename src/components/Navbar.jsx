@@ -80,7 +80,7 @@ const Navbar = () => {
           <div className=" ml-[90vw] overflow-hidden ">
   
             <FaTimes
-              className="text-white text-3xl cursor-pointer "
+              className="text-white text-3xl cursor-pointer translate-y-6 absolute"
               onClick={toggleNav}
             />
           </div>

@@ -7,7 +7,7 @@ const About = () => {
   const code =
     "<!DocType>\n<title>!welcome<title/>\n<html>\n<head>\n</head>\n<body>\n<h1>HelloWorld</h1>\n<p>Best Dev</p>\n<p>Need Help?</p>\n</body>\n</html>";
   return (
-    <div name="about" className="flex justify-center items-center w-[100%] h-screen bg-[#121120] overflow-hidden ">
+    <div name="about" className="flex justify-center items-center w-[100%] h-screen bg-[#121120]">
     
       <div className="w-[80vw] flex flex-col md:flex-row ">
      

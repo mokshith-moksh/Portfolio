@@ -40,7 +40,7 @@ const Experience = () => {
             {/* Grid 1 */}
             <div className=" absolute w-[250px] h-[250px] bg-gradient-to-r from-[#763CAC] z-10 opacity-25 backdrop-filter rounded-full animate-ping"></div>
 
-            <div className="grid grid-cols-2 grid-rows-2 relative gap-48 md:gap-52  lg:gap-64 rounded-full  border-2 animate-rotate-clockwise bg-[#121120]">
+            <div className="grid grid-cols-2 grid-rows-2 relative gap-44 md:gap-52  lg:gap-64 rounded-full  border-2 animate-rotate-clockwise bg-[#121120]">
               <img
                 src={M}
                 alt=""

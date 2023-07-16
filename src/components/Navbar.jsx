@@ -44,7 +44,7 @@ const Navbar = () => {
       {/* Mobile Navigation */}
       <div className="md:hidden">
         <FaBars
-          className="text-white text-3xl cursor-pointer translate-y-6 absolute"
+          className="text-white text-3xl cursor-pointer"
           onClick={toggleNav}
         />
       </div>
